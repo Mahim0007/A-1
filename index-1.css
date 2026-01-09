@@ -259,12 +259,3 @@ img{display:block}
 }
 
 
-@media(max-width:900px){
-  .problem-grid{grid-template-columns:1fr 1fr}
-  .solution-grid{grid-template-columns:1fr}
-}
-@media(max-width:600px){
-  .problem-grid{grid-template-columns:1fr}
-  .nav-links{display:none}
-  .hero h1{font-size:40px}
-}
